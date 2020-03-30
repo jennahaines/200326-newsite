@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "PhD Pandas"
+theme = "ananke"
+background_color_class = "bg-blue"
+publishDir = "docs"
