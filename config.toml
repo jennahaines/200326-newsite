@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jennahaines.github.io/200326-newsite/"
 languageCode = "en-us"
 title = "PhD Pandas"
 theme = "ananke"
